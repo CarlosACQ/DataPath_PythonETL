@@ -1,1 +1,11 @@
-/entorno2
+# Environments
+entorno2/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+src/__pycache__/
